@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SeifeldinAlaa/To_Do_List_React_Updated/static/css/main.922b749c.chunk.css",
+    "main.js": "/SeifeldinAlaa/To_Do_List_React_Updated/static/js/main.a2e7711c.chunk.js",
+    "main.js.map": "/SeifeldinAlaa/To_Do_List_React_Updated/static/js/main.a2e7711c.chunk.js.map",
+    "runtime-main.js": "/SeifeldinAlaa/To_Do_List_React_Updated/static/js/runtime-main.040f9f01.js",
+    "runtime-main.js.map": "/SeifeldinAlaa/To_Do_List_React_Updated/static/js/runtime-main.040f9f01.js.map",
+    "static/js/2.8a5dcf5b.chunk.js": "/SeifeldinAlaa/To_Do_List_React_Updated/static/js/2.8a5dcf5b.chunk.js",
+    "static/js/2.8a5dcf5b.chunk.js.map": "/SeifeldinAlaa/To_Do_List_React_Updated/static/js/2.8a5dcf5b.chunk.js.map",
+    "index.html": "/SeifeldinAlaa/To_Do_List_React_Updated/index.html",
+    "static/css/main.922b749c.chunk.css.map": "/SeifeldinAlaa/To_Do_List_React_Updated/static/css/main.922b749c.chunk.css.map",
+    "static/js/2.8a5dcf5b.chunk.js.LICENSE.txt": "/SeifeldinAlaa/To_Do_List_React_Updated/static/js/2.8a5dcf5b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.040f9f01.js",
+    "static/js/2.8a5dcf5b.chunk.js",
+    "static/css/main.922b749c.chunk.css",
+    "static/js/main.a2e7711c.chunk.js"
+  ]
+}
